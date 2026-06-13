@@ -4,7 +4,7 @@ The processed datasets follow the data setting used in PSTUN:
 
 [NIM-NMDC/PSTUN](https://github.com/NIM-NMDC/PSTUN)
 
-Please download the corresponding Chikusei, Xiongan New Area, and WorldView-3 data from the PSTUN repository or follow its data preparation instructions. Put the processed files under the following paths:
+Please download the corresponding Chikusei, Xiongan New Area, and WorldView-3 data from the PSTUN repository and follow our data preparation instructions. Put the processed files under the following paths:
 
 ```text
 data/
